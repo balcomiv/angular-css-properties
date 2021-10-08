@@ -31,3 +31,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Lazy Loaded Module Generation
 
 - `ng g m --module=app.module --route=theme-changer pages/theme-changer`
+
+# CSS Properties
+
+- https://medium.com/@realTomaszKula/theming-components-with-css-variables-a952273fa9a4
+
+- https://indepth.dev/posts/1395/theming-angular-app-with-css-variables
+
+- https://coryrylan.com/blog/theming-angular-apps-with-css-custom-properties
+
+- https://stackoverflow.com/questions/58775250/setting-custom-css-variable-using-hostbinding-not-working
+
+- https://css-tricks.com/css-attr-function-got-nothin-custom-properties/
+
+- https://www.freecodecamp.org/news/everything-you-need-to-know-about-css-variables-c74d922ea855/
