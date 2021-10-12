@@ -37,6 +37,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - https://medium.com/@realTomaszKula/theming-components-with-css-variables-a952273fa9a4
 - https://stackblitz.com/github/zetsnotdead/ng-theming-components-with-css-variables?file=src%2Fapp%2Fapp.component.ts
 
+- [Lighten and Darken Colors Programmatically](https://css-tricks.com/snippets/javascript/lighten-darken-color/)
+
 - https://indepth.dev/posts/1395/theming-angular-app-with-css-variables
 
 - https://coryrylan.com/blog/theming-angular-apps-with-css-custom-properties
